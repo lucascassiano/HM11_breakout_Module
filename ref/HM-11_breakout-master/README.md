@@ -1,3 +1,7 @@
+# REFERENCE: 
+https://platis.solutions
+I'm not the author, I just uploaded here to start making changes on this board file.
+
 # HM-11 BLE module breakout board
 Eagle PCB files for a HM-11 Bluetooth Low Energy module, breakout board. Based on the work by [Genoil](https://github.com/Genoil/smartwatch).
 
